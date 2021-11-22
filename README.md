@@ -13,4 +13,4 @@
 
 ***both bold and italic font***
 
-[GOOGLE](www.google.com/)
+[GOOGLE](www.google.com)
